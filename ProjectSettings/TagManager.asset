@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - foregroundLayer
+  - groundLayer
+  - backgroundLayer 1
+  - backgroundLayer 2
+  - backgroundLayer 3
+  - Blue hue
+  - enemy
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: backgroundLayer 3
+    uniqueID: 3215538889
+    locked: 0
+  - name: backgroundLayer 2
+    uniqueID: 2164259113
+    locked: 0
+  - name: backgroundLayer 1
+    uniqueID: 4086635855
+    locked: 0
+  - name: Blue hue
+    uniqueID: 2186769087
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: groundLayer
+    uniqueID: 969379967
+    locked: 0
+  - name: foregroundLayer
+    uniqueID: 2548134937
+    locked: 0
